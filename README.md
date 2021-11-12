@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gr3yCodes
+- 👋 Hi, I’m Justin
 - 👀 I’m interested in IoT, data logging, other stuff
 - 🌱 I’m currently learning IoT, data logging, other stuff
 - 💞️ I’m looking to collaborate on PCB/Electronics development
