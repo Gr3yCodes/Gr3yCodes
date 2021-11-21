@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Justin
-- 👀 I’m interested in IoT, data logging, other stuff
-- 🌱 I’m currently learning IoT, data logging, other stuff
-- 💞️ I’m looking to collaborate on PCB/Electronics development
+- 👀 I’m interested in portable electronics, data logging, other stuff
+- 🌱 I’m currently learning electronics, data logging, other stuff
+- 💞️ I’m looking to collaborate on PCB & industrial design development
 - 📫 How to reach me justin.dyal@gmail.com
 
 <!---
